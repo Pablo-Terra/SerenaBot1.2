@@ -1,5 +1,6 @@
 Bot utilizado no TCC - Venda de Infoprodutos
-Descrição do Projeto
+
+--Descrição do Projeto--
 Este repositório contém o código fonte e a documentação para o Bot desenvolvido como parte do meu Trabalho de Conclusão de Curso (TCC). O objetivo principal deste bot é automatizar o processo de venda de infoprodutos, oferecendo uma experiência eficiente e personalizada para os usuários.
 
 Funcionalidades Principais
